@@ -281,18 +281,6 @@ Since standard hosting providers like Render/Vercel don't include persistent Red
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue to discuss significant changes before submitting a pull request.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/my-feature`)
-3. Commit your changes (`git commit -m 'Add my feature'`)
-4. Push to the branch (`git push origin feature/my-feature`)
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
